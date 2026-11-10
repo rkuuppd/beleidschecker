@@ -2,4 +2,4 @@
 
 Beleidschecker: landelijk energie- en klimaatbeleid per regeling, met spanningen, knelpunten en bronnen.
 
-De site staat op GitHub Pages en wordt automatisch bijgewerkt na elke dagronde.
+De site staat op https://beleidschecker.nl (GitHub Pages) en wordt automatisch bijgewerkt na elke dagronde.
